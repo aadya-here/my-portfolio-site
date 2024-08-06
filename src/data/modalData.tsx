@@ -1,5 +1,9 @@
 import { icons } from "./icons";
 
+import p1 from "../assets/data_sci/pizzeria_basic_schema.png"
+import p2 from "../assets/data_sci/sales_dashboard.png"
+import p3 from "../assets/data_sci/customer_dashboard.png"
+
 
 export const modalData = [
     {
@@ -42,7 +46,7 @@ export const modalData = [
         challengesFaced: ["All 3 of us were also doing a full time internship when this hackathon happened and one member was doing a remote intern so collaborating effectively and managing our time was the main challenge."],
         listOfLinks: ['https://github.com/RevatiGoyal22/Myntra', 'https://colab.research.google.com/drive/1iDzMgFodKh-8uEe-uI0d5JHPaGw5CtVw'],
         listOfImgs: [],
-        pdf: "src/assets/achievements/MyntraHackathon.pdf"
+        pdf: 'https://drive.google.com/file/d/1zG-Vdq0jP6AjDFYbktkcpHNb8Fm6EbvT/view?usp=drive_link'
     },
     {
         folderName: "achievements",
@@ -69,7 +73,7 @@ export const modalData = [
         challengesFaced: ["My main topic was quite broad so it took time to understand it properly so that I could find a focus area for my project. ", "Additionally, I was new to the machine learning field that time so I was only able to create a basic CNN model."],
         listOfLinks: ['https://github.com/aadya-here/crack_classifier'],
         listOfImgs: [],
-        pdf: "src/assets/achievements/WoM_ppt.pdf"
+        pdf: "https://drive.google.com/file/d/1EAWHeILLVxhT3IvXzacjSwFaqxcKrAgs/view?usp=drive_link"
 
     },
 
@@ -85,7 +89,7 @@ export const modalData = [
         challengesFaced: ["The entire fest was of only 3 days and this competetions process occupied 2 days only for everything- reseach, analysis and then pitch. The lack of time pushed all of us to be quite effiecient and handle the workload in a team."],
         listOfLinks: [],
         listOfImgs: [],
-        pdf: "src/assets/achievements/industrial_genix.pdf"
+        pdf: "https://drive.google.com/file/d/10jYlgZ5vr_FiwPeyXvm-azRMxIOFZnRE/view?usp=drive_link"
 
     },
     // {
@@ -115,7 +119,7 @@ export const modalData = [
         challengesFaced: [],
         listOfLinks: [],
         listOfImgs: [],
-        pdf: "src/assets/case_studies/netflix_ppt.pdf"
+        pdf: "https://drive.google.com/file/d/1j1-K4zTZ8ME0Hm_NefHtJ5a1Pfg03BZe/view?usp=drive_link"
     },
     {
         folderName: "case studies",
@@ -128,7 +132,7 @@ export const modalData = [
         challengesFaced: [],
         listOfLinks: [],
         listOfImgs: [],
-        pdf: "src/assets/case_studies/Decathlon.pdf"
+        pdf: "https://drive.google.com/file/d/1pQOu9-M_cTJyYNqe-fUkdkFGoNJ-CfPU/view?usp=drive_link"
 
     },
 
@@ -143,7 +147,7 @@ export const modalData = [
         challengesFaced: [],
         listOfLinks: [],
         listOfImgs: [],
-        pdf: "src/assets/case_studies/Lenskart.pdf"
+        pdf: "https://drive.google.com/file/d/1zQWky_J1h5Q97-9_hFOphKNqIOXoe34O/view?usp=drive_link"
 
     },
 
@@ -158,7 +162,7 @@ export const modalData = [
         challengesFaced: [],
         listOfLinks: [],
         listOfImgs: [],
-        pdf: "src/assets/case_studies/Berger_Paints.pdf"
+        pdf: "https://drive.google.com/file/d/1my6NIi8pNf-nfE0CRJtSaTUTCMljdLcw/view?usp=drive_link"
 
     },
 
@@ -173,7 +177,7 @@ export const modalData = [
         challengesFaced: [],
         listOfLinks: [],
         listOfImgs: [],
-        pdf: "src/assets/case_studies/Droplets.pdf"
+        pdf: "https://drive.google.com/file/d/1YyenPWLjDxER8eHINf-MLocwjp21wLFE/view?usp=drive_link"
 
     },
     {
@@ -187,7 +191,7 @@ export const modalData = [
         challengesFaced: [],
         listOfLinks: [],
         listOfImgs: [],
-        pdf: "src/assets/case_studies/jio_ppt.pdf"
+        pdf: "https://drive.google.com/file/d/19ykPlOpVPd-09iigSm7j81jlCNqZRxTb/view?usp=drive_link"
 
     },
 
@@ -243,7 +247,7 @@ export const modalData = [
         techStack: ["Python", "MySQL", "Tableau"],
         challengesFaced: ["Creating usable data", "Creating a functional schema so that the data is stored and accessed efficiently", "Effectively visualising all the various data into a dashboard"],
         listOfLinks: ["https://github.com/aadya-here/pizzeria_dashboard_data_gen"],
-        listOfImgs: ['src/assets/data_sci/pizzeria_basic_schema.png', 'src/assets/data_sci/sales_dashboard.png', 'src/assets/data_sci/customer_dashboard.png'],
+        listOfImgs: [p1, p2, p3],
         pdf: ""
     },
     {
